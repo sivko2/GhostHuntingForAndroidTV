@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>laugh.wav</file>
+        <file>fellow.wav</file>
+        <file>may.wav</file>
+        <file>save.wav</file>
+        <file>svit.wav</file>
+        <file>logo.wav</file>
+        <file>presents.wav</file>
+        <file>intro.wav</file>
+        <file>about.jpg</file>
+        <file>hand1.jpg</file>
+        <file>hand2.jpg</file>
+        <file>hand3.jpg</file>
+        <file>hand4.jpg</file>
+        <file>first_screen_1.jpg</file>
+        <file>first_screen_2.jpg</file>
+        <file>first_screen_3.jpg</file>
+        <file>first_screen_4.jpg</file>
+        <file>first_screen_5.jpg</file>
+        <file>logo.jpg</file>
+        <file>presents.jpg</file>
+        <file>help.jpg</file>
+        <file>score.jpg</file>
+        <file>menu.mp3</file>
+        <file>ghost.png</file>
+        <file>svit.png</file>
+        <file>game.png</file>
+        <file>wall.png</file>
+        <file>MyImage.qml</file>
+        <file>diamond.png</file>
+        <file>aplause.wav</file>
+        <file>MyAnimatedSprite.qml</file>
+        <file>ping.wav</file>
+        <file>transport.wav</file>
+        <file>heart.png</file>
+        <file>l1.png</file>
+        <file>l2.png</file>
+        <file>l3.png</file>
+        <file>g1.png</file>
+        <file>g2.png</file>
+    </qresource>
+</RCC>
